@@ -2,17 +2,15 @@
 
 **Full-Stack Developer since 2011 — Tehran, Iran**
 
-I design and build websites, custom software, and business systems — from e-commerce and corporate sites to ERP / CRM platforms — with a focus on clean architecture, performance, and long-term maintainability.
-
-Founder / developer at **Nexly (Anooshagasht Iranian)** — website design, custom software development, and ERP / CRM solutions for businesses.
+I design and build websites, custom software, and business systems — from e-commerce and corporate sites to CRM / ERP platforms — with a focus on clean architecture, performance, and long-term maintainability.
 
 ---
 
 ## What I do
 
-- **Website design & development** — fast, responsive, SEO-friendly corporate and e-commerce sites
+- **Websites** — fast, responsive, SEO-friendly corporate and e-commerce sites
 - **Custom software** — tailored web applications built around real business processes
-- **ERP / CRM systems** — internal tools, dashboards, and workflow automation
+- **CRM / ERP systems** — internal tools, dashboards, and workflow automation
 - **WordPress / WooCommerce** — custom themes, plugins, and online stores
 - **Local AI integration** — practical AI features with tools such as Ollama
 
@@ -30,16 +28,24 @@ Founder / developer at **Nexly (Anooshagasht Iranian)** — website design, cust
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-black?logo=ollama&logoColor=white)
 
-**Front-end:** Next.js, React, TypeScript, Tailwind CSS  
+**Front-end:** Next.js, React, TypeScript  
 **Back-end:** Node.js, PHP, Laravel  
 **Data:** PostgreSQL, MySQL, Prisma  
 **CMS / Commerce:** WordPress, WooCommerce
 
 ---
 
+## Selected work
+
+Anonymous project metadata only — client names, code, screenshots, and details are shared only with written client consent.
+
+- **CRM system for a retail business** — 2026 — Built by Hamidreza Lotfi
+- **E-commerce and business websites** — ongoing — Built by Hamidreza Lotfi
+- **Custom web applications and internal tools** — ongoing — Built by Hamidreza Lotfi
+
 ## About this GitHub
 
-This profile hosts my personal and open portfolio work. Client projects are private by default — client code is never published publicly, in line with client ownership rights.
+This is my personal profile. It hosts my personal and open portfolio work. Client projects are private by default — client code is never published publicly, in line with client ownership rights.
 
 ## Get in touch
 
